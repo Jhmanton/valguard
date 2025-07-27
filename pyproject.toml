@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "valguard"
-version = "1.0.0"
+version = "1.0.1"
 description = "valguard: A lightweight framework for defining and validating values in data pipelines."
 authors = ["Jonathan Manton <j.manton@ieee.org>"]
 readme = "README.md"
