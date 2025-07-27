@@ -6,6 +6,7 @@ _Constraint-aware value types for semantic validation in Python pipelines_
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue)](https://www.apache.org/licenses/LICENSE-2.0)
 [![PyPI](https://img.shields.io/pypi/v/valguard)](https://pypi.org/project/valguard/)
 [![Python](https://img.shields.io/pypi/pyversions/valguard)](https://pypi.org/project/valguard/)
+[![Docs](https://readthedocs.org/projects/valguard/badge/?version=latest)](https://valguard.readthedocs.io/en/latest/)
 
 ---
 
