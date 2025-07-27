@@ -10,5 +10,6 @@ sphinx:
 
 python:
   install:
-    - method: poetry
+    - requirements: docs/requirements.txt
+    - method: pip
       path: .
