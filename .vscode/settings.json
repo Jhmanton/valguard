@@ -1,0 +1,9 @@
+{
+    "cSpell.enabled": false,
+    "python.analysis.typeCheckingMode": "off",
+    "black-formatter.importStrategy": "fromEnvironment",
+    "ruff.importStrategy": "fromEnvironment",
+    "mypy-type-checker.importStrategy": "fromEnvironment",
+    "mypy-type-checker.reportingScope": "workspace",
+    "mypy-type-checker.preferDaemon":true
+}
